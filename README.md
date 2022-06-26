@@ -4,9 +4,6 @@ Telas Iniciais de um APP
 
 Template starter with React Navigation Bottom Tabs and Firebase auth using React Context
 
-# Preview
-
-![../media/authflow.png](../media/authflow.png)
 
 # Installation
 
